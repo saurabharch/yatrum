@@ -69,7 +69,7 @@
     "karma-jasmine-html-reporter": "^0.2.2",
     "live-server": "^1.2.0",
     "ngrx-store-freeze": "^0.1.9",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "protractor": "~5.1.0",
     "raw-loader": "^0.5.1",
     "sass-loader": "^6.0.3",
